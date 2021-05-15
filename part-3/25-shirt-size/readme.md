@@ -20,7 +20,7 @@ In this case, we need to keep the label in the HTML code, but we want to hide it
   position: absolute !important;
   left: -2000px;
 }
-```
+``` 
 
 _Hint: You may have heard of `display: none`. This will also hide an element. However, using this property will hide it for screen readers too! We must use the CSS code above to hide something visually without hiding it from screen readers._
 
