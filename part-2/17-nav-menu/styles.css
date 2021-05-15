@@ -16,4 +16,11 @@
     .site-header{
         justify-content: space-between;
     }
+    .site-header__nav{
+        align-items: center;
+    }
+    .site-header__checkout{
+        align-self: center;
+    }
+    
 }
